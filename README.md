@@ -14,12 +14,12 @@ This project demonstrates identity synchronization, Password Hash Synchronizatio
 
 ### Windows Server 2022
 
-- Active Directory Domain Services (AD DS)
+- Active Directory Domain Services - DC01
 - DNS
 - DHCP
 - Group Policy
-- File Services
-
+- File Storage Server - FS01
+  - 
 ### Active Directory Domain
 
 ```text
